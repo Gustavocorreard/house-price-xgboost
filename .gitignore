@@ -1,0 +1,41 @@
+# ▓▓▓ Arquivos de sistema e editor
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+
+#Python
+__pycache__/
+*.py[cod]
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Ambientes virtuais
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+
+#Dados (se não quiser subir para o GitHub)
+data/raw/
+data/temp/
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+#Imagens e gráficos gerados (opcional)
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+#Google Colab outputs
+*.ipynb.json
+
+#Logs
+*.log
