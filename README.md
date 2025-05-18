@@ -56,11 +56,11 @@ As variáveis mais influentes foram:
 
 ### 📈 Comparação Real vs Previsto
 
-![Comparação](images/real_vs_pred.png)
+![Comparação](graphics/real_vs_pred1.png)
 
 ### 🔍 Importância das Variáveis
 
-![Importância](images/top_20_features.png)
+![Importância](graphics/top_20_features1.png)
 
 ---
 
